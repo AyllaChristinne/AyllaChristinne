@@ -9,11 +9,11 @@
 </div>
 
 <div>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AyllaChristinne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" height="40%" src="https://github-readme-stats.vercel.app/api?username=AyllaChristinne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img align="right" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img align="left" style="marginTop:50" height="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AyllaChristinne&theme=tokyonight" />
 </div>
+    
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&theme=tokyonight)](https://github.com/AyllaChristinne/github-readme-stats)
    
-[![Weekly Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyllaChristinne)](https://github.com/anuraghazra/github-readme-stats)
-
 

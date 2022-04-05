@@ -12,6 +12,8 @@
   <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AyllaChristinne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&theme=tokyonight)](https://github.com/AyllaChristinne/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&theme=tokyonight)](https://github.com/AyllaChristinne/github-readme-stats)
+   
+[![Weekly Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyllaChristinne)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -15,8 +15,7 @@
 <div>
    <img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=AyllaChristinne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&langs_count=6&theme=tokyonight"/>
-   <img align="left" width="55%" style="margin-top:1%;" height="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AyllaChristinne&theme=tokyonight/726b62b7-67c9-4162-935e-762c7dbd8921
-" />
+   <img align="left" width="55%" style="margin-top:1%;" height="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AyllaChristinne&theme=tokyonight/726b62b7-67c9-4162-935e-762c7dbd8921" />
 </div>
     
 

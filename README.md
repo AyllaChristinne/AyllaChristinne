@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<hr/>
+- 👩🏼‍💻 I am currently working with ReactJS;
+- 📚 I’m currently learning NextJS;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
 <div> 
   <a href="https://www.linkedin.com/in/aylla-christinne-766892173/" target="_blank"  style="border-radius:5px;">
@@ -11,9 +14,7 @@
 </div>
 
 <div>
-   <img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=AyllaChristinne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&langs_count=6&theme=tokyonight"/>
-  
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyllaChristinne&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 

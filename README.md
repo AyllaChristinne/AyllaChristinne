@@ -1,5 +1,6 @@
 ### Hi there 👋
 <hr/>
+
 - 👩🏼‍💻 I am currently working with ReactJS;
 - 📚 I’m currently learning NextJS;
 - 💬 Ask me about anything, I am happy to help;

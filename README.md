@@ -1,13 +1,12 @@
 ## Hi there 👋
-Hello, my name is Aylla, I am a Frontend developer with a Bachelor's degree in Information Systems and experience in ReactJS, Typescript and SASS. Currently working at @Studio Sol as a Junior Frontend Developer, I am responsible for maintaining, improving, adding features and correcting errors in the company's products.
+Hello, my name is Aylla, I am a Frontend developer with a Bachelor's degree in Information Systems and Postgraduate Degree in Software Engineering at PUC - Minas with professional experience in ReactJS, Typescript and SASS. 
 
 Recently I have focused my studies on the technologies and tools that make up the web development environment, in order to make my codes accessible, safe and efficient. Additionally, I have been studying agile methodologies and cloud computing.
-
-I am currently studying a Postgraduate Degree in Software Engineering at PUC - Minas.
 
 <hr />
 
 - 👩🏼‍💻 I am currently working with ReactJS;
+- 👩🏼‍💻 I am currently studying with Angular;
 - 📫 How to reach me: http://bit.ly/47VXulE
 
 <hr/>

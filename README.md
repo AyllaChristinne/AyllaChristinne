@@ -6,7 +6,7 @@ Recently I have focused my studies on the technologies and tools that make up th
 <hr />
 
 - 👩🏼‍💻 I am currently working with ReactJS;
-- 👩🏼‍💻 I am currently studying with Angular;
+- 👩🏼‍💻 I am currently studying Angular;
 - 📫 How to reach me: http://bit.ly/47VXulE
 
 <hr/>
